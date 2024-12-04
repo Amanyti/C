@@ -3,7 +3,7 @@
 #include <locale.h>
 #include <windows.h>
 
-/* Linked List ou Lista simplesmente encadeada
+/* Simple Linked List ou Lista simplesmente encadeada
 lista encadeada e um tipo de estrutura de dados que contém um grupo de nos interligados através de ponteiros,
  onde o ponteiro dentro da estrutura aponta para o próximo nó até que o ponteiro seja NULL indicando assim o fim da lista. */
 
