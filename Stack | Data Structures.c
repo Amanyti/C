@@ -4,7 +4,8 @@
 #include <windows.h>
 
 /* PILHA OU STACK
-Pilhas são estruturas de dados que armazenam os elementos em um formato sequencial, empilhando um item acima do outro. 
+Pilhas são estruturas de dados que armazenam os elementos 
+em um formato sequencial, empilhando um item acima do outro. 
 O paradigma principal por trás da pilha é o LIFO - Last In, First Out, ou “o último a entrar é o primeiro a sair”. */
 
 typedef struct no{
