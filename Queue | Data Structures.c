@@ -4,7 +4,9 @@
 #include <windows.h>
 
 /* QUEUE OU FILAS
-Fila são estruturas de dados bastante utilizadas na computação, onde o primeiro elemento a ser inserido, será também o primeiro a ser retirado. Desta forma, serão adicionados elementos no fim e removê-los pelo início.
+Fila são estruturas de dados bastante utilizadas na computação, 
+onde o primeiro elemento a ser inserido, será também o primeiro a ser retirado. 
+Desta forma, serão adicionados elementos no fim e removê-los pelo início.
 A estrutura de dados fila segue um padrão conhecido como FIFO (first-in first-out), onde o primeiro a entrar é o primeiro a sair. */ 
 
 typedef struct no{
