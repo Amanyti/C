@@ -4,8 +4,9 @@
 #include <windows.h>
 
 /* Simple Linked List ou Lista simplesmente encadeada
-Lista simplesmente encadeada é um tipo de estrutura de dados que contém um grupo de nós interligados através de ponteiros,
-onde o ponteiro dentro da estrutura aponta para o próximo nó até que o ponteiro seja NULL indicando assim o fim da lista. */
+Lista simplesmente encadeada é um tipo de estrutura de dados
+que contém um grupo de nós interligados através de um ponteiro next,
+dentro da estrutura, que aponta para o próximo nó até que o ponteiro seja NULL, indicando assim o fim da lista. */
 
 typedef struct no{
     int cod;
